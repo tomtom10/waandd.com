@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Foundation libsass template
 
 This is a template to start your own project that uses Grunt and libsass!
@@ -59,3 +60,7 @@ This README would normally document whatever steps are necessary to get your app
 * Repo owner or admin
 * Other community or team contact
 >>>>>>> 557b042a886345814bda413fa6ccdfde4bd7a0fd
+=======
+waandd.com
+==========
+>>>>>>> FETCH_HEAD
