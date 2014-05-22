@@ -5,12 +5,12 @@ jQuery(document).ready(function($){
 		var scroll = $(window).scrollTop();
 
 		if (scroll >= 50) {
-			$('#logo-image').attr('src', 'img/Acme_Monogram_Colour.png')
+			$('#logo-image').attr('src', 'img/waandd-logo4.png');
 			$(".important-class").addClass("padding-on-my-header");
 		}
 		if (scroll < 50) {
 			$(".important-class").removeClass("padding-on-my-header");
-			$('#logo-image').attr('src', 'img/Acme_Colour.png')
+			$('#logo-image').attr('src', 'img/waandd-logo3.png');
 		}
 	}).resize(function(){
 		if ( !smallWindow && this.innerWidth <= 1024 ) {

@@ -12,12 +12,12 @@ $primary-color: #ef4523;
 }
 
 .contain-to-grid {
-	background-color: rgba(255, 255, 255, 0.97);
+	background-color: rgba(0, 217, 255, 0.9);
 }
 
 // FILL USED FOR HEADER
 .header-fill {
-	background: #fff;
+	background: #000;
 	height: 135px;
 	.tablet-mobile-logo img {
 		padding-top: 30px;
@@ -119,8 +119,13 @@ p {
 		margin-top: 35px;
 	}
 }
-
-
+body {
+	background-color: #000;
+	color: #fff;
+}
+h1 {
+	color: #fff;
+}
 /*
    FOOTER SECTION
    ========================================================================== */
@@ -183,7 +188,7 @@ p {
 		// LOGO
 		ul.title-area img {
 			margin: -2px 0 0;
-			width: 145px;
+			width: 120px;
 		}
 		.top-bar-section {
 			ul {

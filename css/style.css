@@ -9,10 +9,10 @@
   min-width: 100%; }
 
 .contain-to-grid {
-  background-color: rgba(255, 255, 255, 0.97); }
+  background-color: rgba(0, 217, 255, 0.9); }
 
 .header-fill {
-  background: #fff;
+  background: #000;
   height: 135px; }
   .header-fill .tablet-mobile-logo img {
     padding-top: 30px; }
@@ -83,6 +83,13 @@ p {
 .content-section .main-content {
   margin-top: 35px; }
 
+body {
+  background-color: #000;
+  color: #fff; }
+
+h1 {
+  color: #fff; }
+
 /*
    FOOTER SECTION
    ========================================================================== */
@@ -99,14 +106,14 @@ p {
     margin: -5px 0 0 0; }
 
 /*
-     CONTENT SECTION
-     ========================================================================== */
+	 CONTENT SECTION
+	 ========================================================================== */
 .content-section .main-content {
   margin-top: 35px; }
 
 /*
-     FOOTER SECTION
-     ========================================================================== */
+	 FOOTER SECTION
+	 ========================================================================== */
 .footer-section {
   background: #333;
   min-height: 100px; }
@@ -125,7 +132,7 @@ p {
         box-shadow: 0 10px 0 1px #222, 0 16px 0 1px #222, 0 22px 0 1px #222; }
     .top-bar ul.title-area img {
       margin: -2px 0 0;
-      width: 145px; }
+      width: 120px; }
     .top-bar .top-bar-section ul {
       background: #333; }
       .top-bar .top-bar-section ul li {
